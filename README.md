@@ -19,3 +19,4 @@
 - Frontend: `HTML/CSS/JS` `EJS`
 - Backend: `Node.js` `Express`
 - Database: `Mysql` `AWS RDS`
+- Cloud Infra: `AWS S3`
